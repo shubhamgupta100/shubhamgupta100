@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring Full Stack Web Dev
 
 
-#### Resume - <a href="https://drive.google.com/file/d/16mFHMLMmkWKT7s5wdzxUdw5LE5HUioJv/view?usp=sharing"> Shubham Gupta</a>
+#### Resume - <a href="https://drive.google.com/file/d/1wg2-EKDNKXiFj-zLlgAVYocDwG4JHoKk/view?usp=sharing" target="_blank"> Shubham Gupta</a>
 
 
  📫 How to reach me: ...
