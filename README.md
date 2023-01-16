@@ -1,11 +1,11 @@
 
 ### Shubham Gupta ,👋
 
-- 🔭 I’m currently working on making a clone of Adobe Arobat Reader
+- 🔭 I’m currently working on making edTech education better for 6-10.
 - 🌱 I’m currently exploring Full Stack Web Dev
 
 
-#### Resume - <a href="https://drive.google.com/file/d/1wg2-EKDNKXiFj-zLlgAVYocDwG4JHoKk/view?usp=sharing" target="_blank"> Shubham Gupta</a>
+#### Resume - <a href="https://drive.google.com/file/d/1D9lFFskOayoiqfJiXGVk2NN55APWj1ll/view?usp=share_link" target="_blank"> Shubham Gupta</a>
 
 
  📫 How to reach me: ...
