@@ -1,11 +1,11 @@
 
 ### Shubham Gupta ,👋
 
-- 🔭 I’m currently working on making edTech education better for 6-10.
+- 🔭 I’m currently working on making edTech education better for 1-12.
 - 🌱 I’m currently exploring Full Stack Web Dev
 
 
-#### Resume - <a href="https://drive.google.com/file/d/1D9lFFskOayoiqfJiXGVk2NN55APWj1ll/view?usp=share_link" target="_blank"> Shubham Gupta</a>
+#### Resume - <a href="https://drive.google.com/file/d/1BajfZ84gT3w0aKhWBFRybIouitbd1kBP/view?usp=sharing" target="_blank"> Shubham Gupta</a>
 
 
  📫 How to reach me: ...
